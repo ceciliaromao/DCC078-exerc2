@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09a2c854-e6f9-4885-8af8-6b1b435cf082" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/OrdemServico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/OrdemServicoAprovada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/OrdemServicoCancelada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/OrdemServicoConcluida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/OrdemServicoCriada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/OrdemServicoEmAndamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/OrdemServicoEstado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/state/OrdemServicoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/state/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/state/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/state/OrdemServicoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/state/OrdemServicoTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,10 +70,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.OrdemServicoTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="state.Main" />
       <module name="DCC078-exerc2" />
@@ -139,8 +135,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.OrdemServicoTest" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.OrdemServicoTest,naoDeveCriarOrdemServicoCancelada and 4 more" />
         <item itemvalue="JUnit.OrdemServicoTest.naoDeveCriarOrdemServicoCriada" />
       </list>
@@ -164,6 +160,7 @@
       <updated>1737645610457</updated>
       <workItem from="1737645611508" duration="53000" />
       <workItem from="1737645728880" duration="6897000" />
+      <workItem from="1739493765516" duration="53000" />
     </task>
     <servers />
   </component>
